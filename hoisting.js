@@ -12,13 +12,13 @@ function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
-  function thisIsCrazy { 
+  function thisIsCrazy {
     console.log("hey!!!")
   }
 }
 
 function sayMyName() {
-  
+
   var name = "Kristin";
 
   sayMy();
